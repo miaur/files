@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<countries>
+    <country code='al' handle='albania' continent='europe' >Albania</country>
+    <country code='ad' handle='andorra' continent='europe' >Andorra</country>
+    <country code='am' handle='armenia' continent='europe' >Armenia</country>
+    <country code='at' handle='austria' continent='europe' >Austria</country>
+    <country code='by' handle='belarus' continent='europe' >Belarus</country>
+    <country code='al' handle='albania' continent='europe' >Albania</country>
+    <country code='be' handle='belgium' continent='europe' >Belgium</country>
+    <country code='bg' handle='bulgaria' continent='europe' >Bulgaria</country>
+    <country code='cy' handle='cyprus' continent='europe' >Cyprus</country>  
+</countries>
